@@ -1,6 +1,9 @@
 .filters {
-  background: white;
+  background: lightgrey;
   width: 100%;
+}
+body {
+  background-color: lightgrey;
 }
 .filters li {
   display: inline-block;
